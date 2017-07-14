@@ -1,0 +1,4 @@
+﻿  CLR.cpp
+  CLR.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  b.vcxproj -> C:\Users\iD Student\Documents\Visual Studio 2015\Projects\b\Debug\b.exe
+  b.vcxproj -> C:\Users\iD Student\Documents\Visual Studio 2015\Projects\b\Debug\b.pdb (Partial PDB)
